@@ -1,6 +1,6 @@
 # note_with_api
 
-A new Flutter project.
+This is a simple notes application made by using Getx and integration CRUD operation of the Rest API.
 
 ## Getting Started
 
